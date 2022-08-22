@@ -19,3 +19,4 @@ If you use our code please cite: "C. Chen, S. Zhang, F. Lan, J. Huang, Domain ge
 authentication against practical recapturing attacks", IEEE Transactions on
 Information Forensics and Security (2022).
 
+The datasets presented in our work are available upon request.
